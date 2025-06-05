@@ -48,6 +48,12 @@ Both streams are trained with machine learning models, and their predictions are
 
 
 
+## 📈 Results
+
+Here are the model accuracy results:
+
+![Fusion Results](images/Fussion_results.jpg)
+
 
 
 
